@@ -13,7 +13,7 @@
 
 ### 📂 Meus repositórios
 
-#### 📁 `learning-python`
+#### 📁 `my-python-journey`
 
 Repositório criado com o objetivo de organizar meus estudos e práticas na linguagem Python. Aqui você encontrará diversos exercícios, códigos simples e testes que desenvolvi enquanto aprendo a programar.
 
