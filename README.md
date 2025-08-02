@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello! I'm Isaac Lucena Neri
 
-<!--
-**Lucena-Dev/Lucena-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programming student  
+🐍 Learning Python and problem solving  
+🌱 Always improving, one line of code at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently learning:
+- Python (basics, logic, and projects)
+- Programming foundations
+
+---
+
+### 📂 My repositories:
+- `python-exercises` – Beginner practice and challenges  
+- `personal-projects` – My own scripts and experiments  
+- `logic-exercises` – Exercises to improve my thinking
+
+---
