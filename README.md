@@ -13,8 +13,6 @@
 ---
 
 ### 📂 My repositories:
-- `python-exercises` – Beginner practice and challenges  
-- `personal-projects` – My own scripts and experiments  
-- `logic-exercises` – Exercises to improve my thinking
+
 
 ---
