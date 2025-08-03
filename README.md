@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo Isaac Lucena Neri, tenho 16 anos e sou natural do Brasil. Estou iniciando minha jornada na programação, estudando Python e futuramente outras linguagens. Meu objetivo é me tornar desenvolvedor e trabalhar com tecnologia. Compartilho minha evolução e projetos aqui no GitHub.
+Me chamo Isaac Lucena Neri, tenho 17 anos e sou natural do Brasil. Estou iniciando minha jornada na programação, estudando Python e futuramente outras linguagens. Meu objetivo é me tornar desenvolvedor e trabalhar com tecnologia. Compartilho minha evolução e projetos aqui no GitHub.
 
 <p align="left">
     </a> 
